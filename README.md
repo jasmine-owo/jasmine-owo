@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jasmine-owo
 - 👀 I’m interested in Data Science
 - 🦾 I obtained Professional Certificate from IBM Data Science
-- 🌱 My next step is to learn: deep learning
+- 🌱 My next step is to learn: machine learning and deep learning
 - 💞️ I’m looking to collaborate on data related projects (python based)
 - 📫 How to reach me : https://www.linkedin.com/in/jasmine-lam-b91939248
 
