@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasmine-owo
+- 👋 Hi, I’m Jasmine
 - 👀 I’m interested in Data Science
 - 🦾 I obtained Professional Certificate from IBM Data Science
 - 🌱 My next step is to learn: Advance SQL, machine learning and deep learning
